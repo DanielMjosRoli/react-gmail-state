@@ -67,7 +67,7 @@ function App() {
           </li>
 
           <li className="item toggle">
-            <label for="hide-read">Hide read</label>
+            <label >Hide read</label>
             <input
               id="hide-read"
               type="checkbox"
